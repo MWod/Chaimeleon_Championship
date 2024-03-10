@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+SimpleITK
+torch
+torchvision
+lightning 
+monai 
+torchio 
+torchmetrics 
+torch-summary 
+tensorboard 
